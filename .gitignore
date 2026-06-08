@@ -39,3 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# ローカルのログエクスポート（個人情報を含むためコミットしない）
+*log-export*.json

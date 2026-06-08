@@ -1,0 +1,26 @@
+{
+  "repository": { "full_name": "ictinc/yagimokuzai_erp" },
+  "push": {
+    "changes": [
+      {
+        "new": {
+          "type": "branch",
+          "name": "phase3",
+          "target": { "hash": "5c6acd17191edebffedc265033079f68d32a41f2" }
+        },
+        "old": {
+          "target": { "hash": "2216e4674f0960b7529bd0bb3791df2b21cc5743" }
+        },
+        "created": false,
+        "commits": [
+          { "message": "YAGI_MOKUZAI_ERP-55 動作確認用テストコミット\n" }
+        ],
+        "links": {
+          "diff": {
+            "href": "https://api.bitbucket.org/2.0/repositories/ictinc/yagimokuzai_erp/diff/5c6acd17191edebffedc265033079f68d32a41f2..2216e4674f0960b7529bd0bb3791df2b21cc5743"
+          }
+        }
+      }
+    ]
+  }
+}
